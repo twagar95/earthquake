@@ -5,7 +5,7 @@ UCDD Earthquake Hackathon
 Tristan
 Vaheed
 Zhili
-Not Nir
+Nir
 
 #imOK
 imOk is an app that facilitates information seeking if someone is ok or not. Our app uses tweets with geotags and the hashtag of imok to determine if someone is ok and their location during or after a natural disaster. 
